@@ -2,3 +2,4 @@ build/
 .vscode/
 /.qtcreator
 *.autosave
+.DS_Store
